@@ -7,7 +7,6 @@ C
 print(theta_block([1,2,2,3,3,4,4,5,7,7],-6,5))
 
 Ex 7.3 
-
 print(theta_block([1,1,1,2,2,2,3,3,4,5],0,4))
 
 Ex7.4
